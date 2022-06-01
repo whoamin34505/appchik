@@ -13,8 +13,6 @@
 	<a href="https://whoamin34505.github.io/voronin/">Тестик на Воронина</a><br>
 	<a href="https://whoamin34505.github.io/kul/">Тестик на Даню Куликова</a>
 	</p>
-
-</p>
  <br>
 	<hr>
 	<ul>
