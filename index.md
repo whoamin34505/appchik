@@ -11,7 +11,7 @@
 	<h1 class="title">Тестики</h1>
 	<p class="text">Выберите, какой <b>тестик</b> вы хотите пройти: <br>
 	<a href="https://whoamin34505.github.io/voronin/">Тестик на Воронина</a><br>
-	<a href="https://whoamin34505.github.io/kul/">Тестик на Даню Куликова</a>
+	<a href="https://whoamin34505.github.io/kul/">Тестик на Даню Куликова</a> <br>
 	<a href="https://whoamin34505.github.io/mytet/">Тестик на Колгола</a>
 	</p>
  <br>
